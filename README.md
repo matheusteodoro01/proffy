@@ -6,7 +6,7 @@
    <a href="https://www.linkedin.com/in/rafael-goulartb/">
       <img alt="Rafael Goulart" src="https://img.shields.io/badge/-RafaelGoulartB-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RafaelGoulartB/proffy?color=774DD6">
+ 
 
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
     <img src="https://img.shields.io/badge/Proffy-NLW 2.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
@@ -28,14 +28,6 @@
     <a href="README-pt.md">Portuguese</a>
  </p>
 
-<div align="center">
-  <sub>The NLW #2 project. Built with ❤︎ by
-    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
-    <a href="https://github.com/RafaelGoulartB/Proffy/graphs/contributors">
-      contributors
-    </a>
-  </sub>
-</div>
 
 # :pushpin: Table of Contents
 
@@ -144,24 +136,16 @@ Aferter read the QRCode with the app of [expo](https://play.google.com/store/app
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/RafaelGoulartB/Proffy/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+
 
 # :tada: Contributing
 First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
 
 Here's some tips:
 
-* Check the [issues page](https://github.com/RafaelGoulartB/proffy/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
-* Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
 
 Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
-# :closed_book: License
-
-Released in 2020 :closed_book: License
-
-Made with love by [Rafael Goulart](https://github.com/RafaelGoulartB) 🚀.
-This project is under the [MIT license](./LICENSE).
 
 
 Give a ⭐️ if this project helped you!
